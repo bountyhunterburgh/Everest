@@ -203,4 +203,4 @@ This repository serves as the official landing page for Everest. The software is
 **Get the most recent version of Everest today!**
 
 ---
-**Last updated:** 2026-11-09 17:54:02 UTC
+**Last updated:** 2026-11-10 00:55:37 UTC
